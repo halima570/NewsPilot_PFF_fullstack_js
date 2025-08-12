@@ -14,7 +14,7 @@ Elle permet de consulter, rechercher et filtrer des actualités issues de diffé
 - Recherche par mots-clés  
 - Filtrage par catégories et sources  
 - Pagination dynamique  
-- Authentification utilisateur (si applicable)  
+- Authentification utilisateur 
 - Interface responsive (adaptée mobiles et tablettes)  
 
 ---
@@ -26,7 +26,7 @@ Elle permet de consulter, rechercher et filtrer des actualités issues de diffé
 - **Base de données :** MongoDB (ou autre)  
 - **Parsing RSS :** [rss-parser](https://www.npmjs.com/package/rss-parser) (ou équivalent)  
 - **Authentification :** JWT (si utilisée)  
-- **Outils & librairies :** ESLint, Prettier, Git, etc.
+
 
 ---
 
